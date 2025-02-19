@@ -16,19 +16,18 @@
 
 ---
 
-### **🔥 My GitHub Stats**
-![GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
-
----
-
 ### **🛠️ Projects**
-🚀 **[Project 1 Name](https://github.com/yourusername/project1)**  
-🔹 **Tech Stack:** React, Django, PostgreSQL  
-🔹 **Description:** Brief about the project  
+🚀 [Project 1 B2B marketplace][(https://github.com/TejashriThorat/B2B.git))**  
+💡 Tech Stack: React Native, MongoDB, Node.js, Express
+📊 Real-time analytics on sales, orders, and user activity
+🔐 Role-Based Access Control (RBAC) for secure admin management
+⚡ Scalable architecture with robust backend services  
 
 🚀 **[Project 2 Name](https://github.com/yourusername/project2)**  
-🔹 **Tech Stack:** Node.js, Express, MongoDB  
-🔹 **Description:** Brief about the project  
+💡 Tech Stack: Django, HTML, CSS, Bootstrap, JavaScript
+📚 Self-Study Portal – A web-based learning platform designed to help users study at their own pace. Built with Django for backend logic and Bootstrap & JavaScript for a responsive UI.
+🎯 User-friendly Dashboard for tracking learning progress
+🚀 Responsive UI with Bootstrap for mobile-friendly access
 
 ---
 
