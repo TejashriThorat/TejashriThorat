@@ -11,8 +11,8 @@
 ---
 
 ### **📫 Connect with Me:**
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
-[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/yourusername)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/tejashri-thorat)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/TejashriThorat)
 
 ## **🛠️ Projects**
 
