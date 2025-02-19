@@ -1,4 +1,4 @@
-<h1 align="center">Hi, I'm [Tejashri Thorat] 👋</h1>
+<h1 align="center">Hi, I'm Tejashri Thorat 👋</h1>
 <h3 align="center">Backend Web Developer | MERN Stack | Python & Django | Node.js</h3>
 
 
